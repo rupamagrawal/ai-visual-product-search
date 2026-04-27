@@ -1,0 +1,18 @@
+# Node & Frontend
+node_modules/
+dist/
+.env.local
+
+# Python & Backend
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+temp_uploads/
+
+# Environment Variables (CRITICAL)
+.env
+
+# OS Files
+.DS_Store
+Thumbs.db
