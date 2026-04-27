@@ -61,7 +61,4 @@ npm install
 npm run dev
 ```
 
-Finally, open your browser and go to `http://localhost:5173/`!
-
-## 🎓 About
-This project was built as a university computer science mini-project to demonstrate the implementation of applied machine learning, computer vision, and modern full-stack web development.
+Finally, open your browser and go to `http://localhost:5173/`
